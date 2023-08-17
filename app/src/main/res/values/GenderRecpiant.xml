@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rec_gender">
+        <item>Select Gender</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+        <item>Rather not Specify</item>
+
+    </string-array>
+</resources>

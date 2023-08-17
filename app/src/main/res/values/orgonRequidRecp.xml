@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="rec_orgon">
+        <item>Select Organ</item>
+        <item>Kidney</item>
+        <item>Liver</item>
+        <item>Heart</item>
+        <item>Lungs</item>
+
+    </string-array>
+</resources>

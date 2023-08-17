@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="doc_hospitalName">
+        <item>Select Hospital Name</item>
+        <item>KLE Hospital</item>
+        <item>Lake View Hospital</item>
+        <item>Tata Hospital</item>
+        <item>Lotus Hospital</item>
+        <item>Civil Hospital</item>
+    </string-array>
+</resources>

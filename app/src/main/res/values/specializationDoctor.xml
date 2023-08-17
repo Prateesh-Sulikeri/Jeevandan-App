@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string-array name="doc_spec">
+        <item>Select Specialization</item>
+        <item>Nephrologist</item>
+        <item>Gastroenterologists </item>
+        <item>Cardiothoracic Surgeon</item>
+        <item>Pulmonologist</item>
+    </string-array>
+</resources>
